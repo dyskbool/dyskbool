@@ -7,4 +7,4 @@
 ![Pawn](https://img.shields.io/badge/Linguagem-Pawn-red)
 
 # Sobre mim
-_me chamo jose mais conhecido como (dysk) sou desenvolvedor de bots, sites, e mexo com programação pwn, bye 👋_
+_me chamo jose mais conhecido como (dysk) sou desenvolvedor de bots, sites, e mexo com programação pwn e com as demais acima, bye 👋_
